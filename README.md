@@ -5,13 +5,6 @@ apps
 
 - [Guide to app architecture (Gooogle Developers)](https://developer.android.com/courses/pathways/android-architecture#article-https://developer.android.com/topic/architecture)
 
-## 🚀 Introduction
-
-This sample demonstrates how one can
-
-- Setup base architecture of Android Jetpack Compose app using Clean Architecture
-- Use Koin(dependency injection) for layers separation
-- Make api calls using Ktor plugin.
 
 ```
 ├── common
